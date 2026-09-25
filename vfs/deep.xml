@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vfs>
+  <dir name="a">
+    <dir name="b">
+      <dir name="c">
+        <dir name="d">
+          <file name="deep.txt">Глубокий файл</file>
+        </dir>
+        <file name="level3.txt">Уровень 3</file>
+      </dir>
+      <file name="level2.txt">Уровень 2</file>
+    </dir>
+    <file name="level1.txt">Уровень 1</file>
+  </dir>
+</vfs>

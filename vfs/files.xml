@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vfs>
+  <dir name="etc">
+    <file name="hostname">emulator-host</file>
+    <file name="motd">Welcome to the VFS shell emulator.
+Type 'help' for commands.</file>
+  </dir>
+  <dir name="home">
+    <dir name="user">
+      <file name="notes.txt">line1
+line1
+line2
+line2
+line2
+line3</file>
+      <file name="data.bin" encoding="base64">SGVsbG8sIGJpbmFyeSB3b3JsZCE=</file>
+    </dir>
+  </dir>
+  <dir name="var">
+    <dir name="log">
+      <file name="app.log">2024-01-01 INFO start
+2024-01-01 INFO stop</file>
+    </dir>
+  </dir>
+</vfs>
